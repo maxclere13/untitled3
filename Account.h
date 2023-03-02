@@ -1,3 +1,6 @@
+// Fady Fahmy
+// Csci 272 02(43123)
+// modify the code from fig3.8 and fig3.9 (The .cpp and .h files)
 //Account.h 
 
 #include <iostream>
